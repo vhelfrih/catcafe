@@ -1,1 +1,1 @@
-A simple HTML, SCSS landing page.
+A simple HTML, SCSS landing page created by following the mobile-first rule of webdesign.
